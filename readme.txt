@@ -2,7 +2,7 @@
 Contributors: wpmuguru, cuny-academic-commons
 Tags: network, switched, utility, multisite
 Requires at least: 2.7
-Tested up to: 3.0.1
+Tested up to: 3.1
 Stable tag: trunk
 
 A framework for unhooking plugins while switched in a WP network.
